@@ -1,1 +1,9 @@
-hello
+organization: # org name on holopin
+defaultSticker: cmgi07ids001ykw04d6nn059i
+stickers:
+  -
+    id: cmgi07ids001ykw04d6nn059i
+    alias: HactoberFest Level 4 
+  -
+   id: cmghwh0ix0033l704jylucaij
+   alias: HactoberFest Level 3
